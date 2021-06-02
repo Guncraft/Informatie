@@ -1,13 +1,13 @@
 # Guncraft Toegangsaanvraag
 
-### Als je iemand toegang wilt geven tot Guncraft, stuur dan een aanvraag naar @RMCDiscord#8945 in de volgende opmaak:
+### Als je iemand toegang wilt geven tot Guncraft, stuur dan een aanvraag naar RMCDiscord#8945 in de volgende opmaak:
 <br>
 
 `**__Guncraft Toegangsaanvraag__**`<br>
 <br>
-`**Minecraft Gebruikersnaam**: <Minecraft gebruikersnaam van degene waarvoor je toegang aanvraagt>`<br>
+`**Minecraft Gebruikersnaam**: <Minecraft Gebruikersnaam van degene waarvoor je toegang aanvraagt>`<br>
 `**Groep**: <Naam van de groep waarvoor je hem/haar wilt uitnodigen>`<br>
-`**Discord Gebruikersnaam**: <Discord gebruikersnaam van degene waarvoor je toegang aanvraagt>`<br>
+`**Discord Gebruikersnaam**: <Discord Gebruikersnaam van degene waarvoor je toegang aanvraagt>`<br>
 `**Naam**: <Naam van de persoon voor wie je toegang aanvraagt>`<br>
 `**Reden**: <Reden waarom je voor hem/haar toegang aanvraagt>`<br>
 <br>
