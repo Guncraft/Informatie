@@ -1,6 +1,5 @@
 # Minecraft Server Wijzigingen
-
-
+<br>
 
 - Plug-in toegevoegd
 - options.txt verwijderd (Onbekend bestand)
