@@ -1,0 +1,18 @@
+# Guncraft Vestigingsregistratieformulier
+
+### Als je je vestiging wilt laten registreren, stuur dan een verzoek naar RMCDiscord#8945 in de volgende opmaak:
+<br>
+
+`**__Guncraft Vestigingsregistratieformulier__**`<br>
+<br>
+`**Minecraft Gebruikersnaam**: <Jouw Minecraft Gebruikersnaam>`<br>
+`**Groep**: <Naam van de groep waar jij in zit / Groeploos / Solo>`<br>
+`**Coördinaten**: <Coördinaten van de vestiging die je wilt laten registreren>`<br>
+`**Privégebied**: <Ja/Nee>`<br>
+`**Reden**: <Reden waarom je deze vestiging wilt laten registreren>`<br>
+<br>
+<br>
+
+Vervang het gedeelte tussen de pijltjes (`<` & `>`) met de correcte informatie en verwijder vervolgens de pijltjes.<br>
+<br>
+_**ELKE ANDERE OPMAAK WORDT DIRECT AFGEWEZEN!**_
