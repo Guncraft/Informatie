@@ -2,4 +2,12 @@
 
 
 
-Er is nog niks om hier weer te geven.
+- Plug-in toegevoegd
+- options.txt verwijderd (Onbekend bestand)
+- Dynamic Map Compatibility uitgezet (Dynamic Map wordt niet gebruikt)
+- Skip Tile Entity Ticks uitgezet
+- Tile Entity Debugging aangezet
+- Check Entity Max Speeds aangezet
+- Thread Contention Monitoring aangezet
+- De nether blijft niet langer ingeladen
+- Optimized packet sending/receiving wordt nu gebruikt (Native Transport)
