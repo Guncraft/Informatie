@@ -1,5 +1,5 @@
 ## Hier kun je diverse informatie vinden over Guncraft.
-<br>Regels & Richtlijnen.mkdn **->** Hier staan alle belangrijke regels en richtlijnen van de Discord server.
+<br>Regels & Richtlijnen.mkdn **->** Hier staan alle belangrijke regels en richtlijnen.
 
 Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft server bijgehouden.
 
