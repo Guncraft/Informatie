@@ -3,4 +3,4 @@
 
 Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft server bijgehouden.
 
-Guncraft Regels.mkdn **->** Hier staan alle belangrijke regels van de Minecraft server.
+Guncraft Regels.mkdn **->** Hier staan alle belangrijke regels van Guncraft.
