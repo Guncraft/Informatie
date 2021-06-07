@@ -8,7 +8,7 @@
 `**Minecraft Gebruikersnaam**: <Jouw Minecraft Gebruikersnaam>`<br>
 `**Groep**: <Naam van de groep waar jij in zit / Groeploos / Solo>`<br>
 `**Coördinaten**: <Coördinaten van de vestiging die je wilt laten registreren>`<br>
-`**Privégebied**: <Ja/Nee>`<br>
+`**Beperkt Gebied**: <Ja/Nee>`<br>
 `**Reden**: <Reden waarom je deze vestiging wilt laten registreren>`<br>
 <br>
 <br>
