@@ -1,4 +1,5 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Hunger Rate van `-3` naar `-2` gezet.
+- OptiFine is bijgewerkt.
+- FindMe (mod) is toegevoegd.
