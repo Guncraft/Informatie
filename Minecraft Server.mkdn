@@ -1,5 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- OptiFine is bijgewerkt.
-- FindMe (mod) is toegevoegd.
+- Beveiligingsmaatregel toegevoegd. (Meer informatie wordt niet gedeeld.)
