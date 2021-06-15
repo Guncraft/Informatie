@@ -6,7 +6,7 @@
 3. Controleer altijd bij RMCDiscord#8945 of je naar een basis van een andere groep mag en vraag altijd aan RMCDiscord#8945 wat je bij een andere basis mag doen op het moment dat je er bent.<br>
 4. Als je hulp van staff nodig hebt in de server, gebruik dan het commando `/helpop`.<br>
 5. Probeer zo min mogelijk kapot te maken van basissen van andere groepen.<br>
-6. Het is verboden wijzigingen aan te brengen aan je map met mods, tenzij anders aangegeven wordt door RMCDiscord#8945 of RobinRMC#8443.<br>
+6. Het is verboden wijzigingen aan te brengen aan je map met mods, tenzij anders aangegeven wordt door RMCDiscord#8945. Er worden strenge maatregelen gehanteerd om overtredingen van deze regel tegen te gaan.<br>
 7. Blijf na een aanval minimaal 30 minuten online, tenzij anders wordt aangegeven.<br>
 8. Als een kist een slot heeft, mag je alleen bewerkingen aan de kist en zijn inhoud verrichten als de bijbehorende sleutel zich in jouw inventaris bevindt.<br>
 9. De stad is jouw leefomgeving. Natuurlijk mag je je leefomgeving bewerken, maar maak er niet onnodig een puinhoop van. (Voorbeelden: willekeurig blokken plaatsen, omdat je er vanaf moet | door gebouwen heen hakken, omdat je erdoorheen moet | expres creepers laten exploderen, omdat je je niet interesseert in de omgeving waar je je op dat moment bevindt.)<br>
