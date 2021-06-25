@@ -5,6 +5,6 @@ Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aange
 
 Guncraft Regels.mkdn **->** Hier staan alle belangrijke regels van Guncraft.
 
-Guncraft Toegangsaanvraag.mkdn **->** Hiermee kan een groepseigenaar iemand uitnodigen naar zijn of haar groep.
+Guncraft Toegangsaanvraagformulier.mkdn **->** Hiermee kan een groepseigenaar iemand uitnodigen naar zijn of haar groep.
 
 Guncraft Vestigingsregistratieformulier.mkdn **->** Hiermee kan je je vestiging laten beveiligen door de server.
