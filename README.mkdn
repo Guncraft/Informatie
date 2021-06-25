@@ -8,3 +8,5 @@ Guncraft Regels.mkdn **->** Hier staan alle belangrijke regels van Guncraft.
 Guncraft Toegangsaanvraagformulier.mkdn **->** Hiermee kan een groepseigenaar iemand uitnodigen naar zijn of haar groep.
 
 Guncraft Vestigingsregistratieformulier.mkdn **->** Hiermee kan je je vestiging laten beveiligen door de server.
+
+Advertenties.mkdn **->** Hier staan alle advertenties van de server(s).
