@@ -1,7 +1,8 @@
 ## Hier kun je diverse informatie vinden over Guncraft.
-<br>Regels & Richtlijnen.mkdn **->** Hier staan alle belangrijke regels en richtlijnen.
+[![Discord](https://img.shields.io/discord/405834387192807444?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white)](https://dsc.gg/Guncraft)
+<br><br>Regels & Richtlijnen.mkdn **->** Hier staan alle belangrijke regels en richtlijnen.
 
-Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft server bijgehouden.
+Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft-server bijgehouden.
 
 Guncraft Regels.mkdn **->** Hier staan alle belangrijke regels van Guncraft.
 
