@@ -1,4 +1,5 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Beveiligingsmaatregel toegevoegd. (Meer informatie wordt niet gedeeld.)
+- Dynamic Surroundings (mod) is toegevoegd
+- OreLib (mod) is toegevoegd
