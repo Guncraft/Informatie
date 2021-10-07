@@ -1,5 +1,10 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Dynamic Surroundings (mod) is toegevoegd
-- OreLib (mod) is toegevoegd
+- 8 mods toegevoegd (Hieronder worden een aantal details gegeven, verder wordt er geen informatie over deze mods gedeeld)
+  - 1 mod is een shared library
+  - Er is een functie toegevoegd aan slime blocks
+  - Er is een verandering aangebracht aangebracht rondom nether portals
+  - Er is een verandering aangebracht aan melk
+  - Als je doodgaat, word je ontkoppeld van de server
+  - Er zijn dingen veranderd aan bepaalde mobs
