@@ -1,10 +1,8 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- 8 mods toegevoegd (Hieronder worden een aantal details gegeven, verder wordt er geen informatie over deze mods gedeeld)
-  - 1 mod is een shared library
-  - Er is een functie toegevoegd aan slime blocks
-  - Er is een verandering aangebracht aangebracht rondom nether portals
-  - Er is een verandering aangebracht aan melk
-  - Als je doodgaat, word je ontkoppeld van de server
-  - Er zijn dingen veranderd aan bepaalde mobs
+- Tot en met 31 oktober kun je flikkerende pompoenen aanvragen
+- PacketListenerAPI (plug-in) is toegevoegd
+- Het is vanaf nu mogelijk om de helft van double slabs te hakken (Niet getest)
+- Er wordt vanaf nu een melding in de chat gestuurd wanneer iemand zijn/haar connectie met de server is verloren door een verbindingsprobleem (Niet getest)
+- Vanaf nu start de server op bepaalde tijdstippen automatisch opnieuw op
