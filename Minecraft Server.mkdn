@@ -1,8 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Tot en met 31 oktober kun je flikkerende pompoenen aanvragen
-- PacketListenerAPI (plug-in) is toegevoegd
-- Het is vanaf nu mogelijk om de helft van double slabs te hakken (Niet getest)
-- Er wordt vanaf nu een melding in de chat gestuurd wanneer iemand zijn/haar connectie met de server is verloren door een verbindingsprobleem (Niet getest)
-- Vanaf nu start de server op bepaalde tijdstippen automatisch opnieuw op
+- Essentials (plug-in) is bijgewerkt
