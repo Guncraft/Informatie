@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Essentials (plug-in) is bijgewerkt
+- Mod verwijderd (Je wordt niet meer uit de server gezet als je doodgaat)
