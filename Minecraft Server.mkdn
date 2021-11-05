@@ -1,4 +1,6 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Mod verwijderd (Je wordt niet meer uit de server gezet als je doodgaat)
+- Een aantal configuraties zijn aangepast; uitgebreidere informatie is niet bijgehouden
+- Advancements zijn veranderd
+  - Beloningen zijn toegevoegd
