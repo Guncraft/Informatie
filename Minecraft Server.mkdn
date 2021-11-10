@@ -1,6 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Een aantal configuraties zijn aangepast; uitgebreidere informatie is niet bijgehouden
-- Advancements zijn veranderd
-  - Beloningen zijn toegevoegd
+- Dubbele deuren (alle soorten, behalve iron doors) openen nu tegelijk
