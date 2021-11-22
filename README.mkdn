@@ -1,5 +1,7 @@
 ## Hier kun je diverse informatie vinden over Guncraft.
-[![Discord](https://img.shields.io/discord/405834387192807444?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white)](https://dsc.gg/Guncraft)
+[![Discord](https://img.shields.io/discord/405834387192807444?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white)](https://dsc.gg/Guncraft)<br>
+
+<a href="https://minecraft-mp.com/server-s295805" target="_blank"><img src="https://minecraft-mp.com/half-banner-295805-3.png" border="0"></a>
 <br><br>Regels & Richtlijnen.mkdn **->** Hier staan alle belangrijke regels en richtlijnen.
 
 Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft-server bijgehouden.
