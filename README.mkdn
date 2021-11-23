@@ -2,14 +2,14 @@
 [![Discord](https://img.shields.io/discord/405834387192807444?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white)](https://discord.guncraft.nl)<br>
 
 <a href="https://minecraft-mp.com/server-s295805" target="_blank"><img src="https://minecraft-mp.com/half-banner-295805-3.png" border="0"></a>
-<br><br>Regels & Richtlijnen.mkdn **->** Hier staan alle belangrijke regels en richtlijnen.
+<br><br>[Regels & Richtlijnen.mkdn](Regels%20%26%20Richtlijnen.mkdn) **->** Hier staan alle belangrijke regels en richtlijnen.
 
-Minecraft Server.mkdn **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft-server bijgehouden.
+[Minecraft Server.mkdn](Minecraft%20Server.mkdn) **->** Hier worden (bijna) alle wijzigingen die zijn aangebracht aan de Minecraft-server bijgehouden.
 
-Guncraft Regels.mkdn **->** Hier staan alle belangrijke regels van Guncraft.
+[Guncraft Regels.mkdn](Guncraft%20Regels.mkdn) **->** Hier staan alle belangrijke regels van Guncraft.
 
-Guncraft Toegangsaanvraagformulier.mkdn **->** Hiermee kan een groepseigenaar iemand uitnodigen naar zijn of haar groep.
+[Guncraft Toegangsaanvraagformulier.mkdn](Guncraft%20Toegangsaanvraagformulier.mkdn) **->** Hiermee kan een groepseigenaar iemand uitnodigen naar zijn of haar groep.
 
-Guncraft Vestigingsregistratieformulier.mkdn **->** Hiermee kan je je vestiging laten beveiligen door de server.
+[Guncraft Vestigingsregistratieformulier.mkdn](Guncraft%20Vestigingsregistratieformulier.mkdn) **->** Hiermee kan je je vestiging laten beveiligen door de server.
 
-Advertenties.mkdn **->** Hier staan alle advertenties van de server(s).
+[Advertenties.mkdn](Advertenties.mkdn) **->** Hier staan alle advertenties van de server(s).
