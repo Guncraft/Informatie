@@ -4,7 +4,7 @@
 1. Saboteren mag, opzettelijk griefen niet.<br>
 2. Gasgranaten zijn **_VERBODEN_**.[^gasgranaten]<br>
 3. Controleer altijd bij RMCDiscord#8945[^contact] of je naar een basis van een andere groep mag en vraag altijd aan RMCDiscord#8945[^contact] wat je bij een andere basis mag doen op het moment dat je er bent.<br>
-4. Als je hulp van een staflid nodig hebt, gebruik dan het commando `/helpop`[^opmerking]. [RL][^identificatie_richtlijnen]<br>
+4. Als je hulp van een staflid nodig hebt, gebruik dan het commando `/helpop`[^opmerking] of maak een ticket in de Discord-server. [RL][^identificatie_richtlijnen]<br>
 5. Probeer zo min mogelijk kapot te maken van basissen van andere groepen.<br>
 6. Het is verboden wijzigingen aan te brengen aan je map met mods, tenzij anders aangegeven wordt door RMCDiscord#8945[^contact]. Er worden strenge maatregelen gehanteerd om overtredingen van deze regel tegen te gaan.<br>
 7. Blijf na een aanval minimaal 30 minuten online, tenzij anders wordt aangegeven.[^uitzonderingen]<br>
