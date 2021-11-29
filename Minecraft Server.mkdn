@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Dubbele deuren (alle soorten, behalve iron doors) openen nu tegelijk
+- Hunger Rate van `-2` naar `-1` gezet
