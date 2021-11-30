@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Hunger Rate van `-1` naar `0` gezet
+- Hunger Rate van `0` naar `-1` gezet
