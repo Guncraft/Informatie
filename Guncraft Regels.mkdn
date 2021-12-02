@@ -17,6 +17,7 @@
 12. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
 13. De chat is voor roleplay.[^chat]
 14. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
+15. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
