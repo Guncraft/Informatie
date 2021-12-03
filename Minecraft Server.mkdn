@@ -1,4 +1,5 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Hunger Rate van `0` naar `-1` gezet
+- Prestatiemonitor geïnstalleerd
+- Een aantal configuraties veranderd
