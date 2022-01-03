@@ -1,5 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Prestatiemonitor geïnstalleerd
-- Een aantal configuraties veranderd
+- Er wordt vanaf nu geen melding meer gestuurd als iemand zijn/haar connectie met de server is verloren door een verbindingsprobleem
