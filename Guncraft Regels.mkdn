@@ -4,7 +4,7 @@
 1. Saboteren mag, opzettelijk griefen niet.<br>
 2. Gasgranaten zijn **_VERBODEN_**.[^gasgranaten]<br>
 3. Controleer altijd bij RMCDiscord#8945[^contact] of je naar een basis van een andere groep mag en vraag altijd aan RMCDiscord#8945[^contact] wat je bij een andere basis mag doen op het moment dat je er bent.<br>
-4. Als je hulp van een staflid nodig hebt, gebruik dan het commando `/helpop`[^opmerking] of maak een ticket in de Discord-server. [RL][^identificatie_richtlijnen]<br>
+4. Als je hulp van een staflid nodig hebt, gebruik dan het commando `/helpop`[^opmerking] of maak een ticket aan in de Discord-server. [RL][^identificatie_richtlijnen]<br>
 5. Probeer zo min mogelijk kapot te maken van basissen van andere groepen.<br>
 6. Het is verboden wijzigingen aan te brengen aan je map met mods, tenzij anders aangegeven wordt door RMCDiscord#8945[^contact]. Er worden strenge maatregelen gehanteerd om overtredingen van deze regel tegen te gaan.<br>
 7. Blijf na een aanval minimaal 30 minuten online, tenzij anders wordt aangegeven.[^uitzonderingen]<br>
@@ -17,7 +17,9 @@
 12. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
 13. De chat is voor roleplay.[^chat]
 14. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
-15. Intentioneel de server vertragen of laten vastlopen is verboden.
+15. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
+16. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
+17. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
@@ -35,3 +37,5 @@ _Per geval/situatie kunnen er uitzonderingen op deze regels worden gemaakt.<br>M
 [^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp aan een staflid.
 [^chat]: Wil je toch iets buiten roleplay aangeven of vragen? Stuur je bericht in Discord of begin je bericht met `# `; eindigen met ` #` is optioneel. _Groepseigenaren kunnen gebruikmaken van het commando `/say`._<br>**Misbruik wordt bestraft.**
 [^verboden_terrein]: Vraag aan RMCDiscord#8945[^contact] of het desbetreffende terrein openbaar toegankelijk is en of je toestemming hebt om je daar te bevinden. Het is verboden om spullen te pakken, tenzij er wordt aangegeven door RMCDiscord#8945[^contact] dat het openbaar terrein is of dat je de spullen mag meenemen. Indien je eerder al spullen hebt gepakt van die locatie, moet je die spullen direct terugleggen.
+[^extra_bescherming]: Content creators hebben hier recht op om valsspelen door middel van activiteiten zoals stream sniping te voorkomen.
+[^loyaliteit]: Er zijn wel mogelijkheden om een groep te verlaten, maar het is verboden om je aan te sluiten bij een groep met de intentie om de groep te misbruiken/verraden. Je mag te allen tijde een groep verlaten met toestemming van de groepsleider.
