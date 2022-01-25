@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Er wordt vanaf nu geen melding meer gestuurd als iemand zijn/haar connectie met de server is verloren door een verbindingsprobleem
+- Hunger Rate van `-1` naar `-2` gezet
