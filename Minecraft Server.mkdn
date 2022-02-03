@@ -1,4 +1,5 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Hunger Rate van `-1` naar `-2` gezet
+- Modern Warfare (mod) is aangepast
+- CodeChicken Core (mod) is verwijderd
