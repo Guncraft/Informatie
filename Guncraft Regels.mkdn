@@ -10,16 +10,17 @@
 7. Blijf na een aanval minimaal 30 minuten online, tenzij anders wordt aangegeven.[^uitzonderingen]<br>
 8. Als een kist een slot heeft, mag je alleen bewerkingen aan de kist en zijn inhoud verrichten als de bijbehorende sleutel zich in jouw inventaris bevindt.<br>
 9. De stad is jouw leefomgeving. Natuurlijk mag je je leefomgeving bewerken, maar maak er niet onnodig een puinhoop van. (Voorbeelden: willekeurig blokken plaatsen, omdat je er vanaf moet | door gebouwen heen hakken, omdat je erdoorheen moet | expres creepers laten exploderen, omdat je je niet interesseert in de omgeving waar je je op dat moment bevindt.) [RL][^identificatie_richtlijnen]<br>
-10. Het is verboden om iemand die een overheidsrol heeft, (negatief) te benaderen en/of anders te behandelen buiten zijn of haar overheidsrol om. // Het is verboden om met iemand in discussie (of gesprek) te gaan over zijn of haar overheidsrol, tenzij anders aangegeven wordt door een administrator of hoger. Bespreek klachten met RMCDiscord#8945[^contact]. [RL][^identificatie_richtlijnen]<br>
-11. Probeer dingen zo veel mogelijk roleplay-gewijs te realiseren/op te lossen/te doen. [RL][^identificatie_richtlijnen]<br>
+10. Probeer tijdens een aanval eerst naar een ingang te zoeken in plaats van direct door de muur van een gebouw heen te hakken. [RL][^identificatie_richtlijnen]
+11. Het is verboden om iemand die een overheidsrol heeft, (negatief) te benaderen en/of anders te behandelen buiten zijn of haar overheidsrol om. // Het is verboden om met iemand in discussie (of gesprek) te gaan over zijn of haar overheidsrol, tenzij anders aangegeven wordt door een administrator of hoger. Bespreek klachten met RMCDiscord#8945[^contact]. [RL][^identificatie_richtlijnen]<br>
+12. Probeer dingen zo veel mogelijk roleplay-gewijs te realiseren/op te lossen/te doen. [RL][^identificatie_richtlijnen]<br>
     - Probeer dingen binnen de (Minecraft-)server te houden. Hiermee wordt bedoeld dat je zo min mogelijk informatie probeert te distribueren/bemachtigen buiten de (Minecraft-)server om. [RL][^identificatie_richtlijnen]<br>
       - Wil je in gesprek met een ander team of individu? Kom samen in de server! [RL][^identificatie_richtlijnen]<br>
-12. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
-13. De chat is voor roleplay.[^chat]
-14. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
-15. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
-16. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
-17. Intentioneel de server vertragen of laten vastlopen is verboden.
+13. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
+14. De chat is voor roleplay.[^chat]
+15. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
+16. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
+17. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
+18. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
