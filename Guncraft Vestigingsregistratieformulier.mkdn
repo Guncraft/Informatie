@@ -10,9 +10,18 @@
 `**Coördinaten**: <Coördinaten van de vestiging die je wilt laten registreren>`<br>
 `**Beperkt Gebied**: <Ja/Nee>`<br>
 `**Reden**: <Reden waarom je deze vestiging wilt laten registreren>`<br>
-<br>
-<br>
-
+<br><br>
 Vervang het gedeelte tussen de pijltjes (`<` & `>`) met de correcte informatie en verwijder vervolgens de pijltjes.<br>
 <br>
 _**ELKE ANDERE OPMAAK WORDT DIRECT AFGEWEZEN!**_
+<br><br>
+
+---
+<br>
+
+### Er zijn bepaalde voorwaarden waar je aan moet voldoen, voordat je een vestiging kunt laten registreren.
+<br>
+
+**Voordat je een vestiging kunt laten registreren, moet je eerst een bepaald aantal vestigingen in (of in de nabije omgeving van) de hoofdstad hebben.**<br>
+<br>
+De voorwaarden zijn nog niet openbaar. Er is een formule voor het berekenen van het totale aantal toegestane (geregistreerde) vestigingen, waar (voorlopig nog) uitzonderingen op gemaakt kunnen worden na overleg.
