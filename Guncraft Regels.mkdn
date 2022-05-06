@@ -35,7 +35,7 @@ _Op het overtreden van deze regels staan zware straffen!<br>Per geval/situatie k
 [^opmerking]: Dit commando brengt alleen stafleden die (op het moment dat het commando wordt uitgevoerd) aanwezig zijn in de server op de hoogte.
 [^identificatie_richtlijnen]: Richtlijnen zijn aangegeven met `[RL]`.
 [^uitzonderingen]: Deze regel mag bij bepaalde omstandigheden overtreden worden. Bespreek dit met een staflid of geef dit buiten roleplay aan om een onnodige straf te voorkomen.
-[^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp aan een staflid.
+[^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp bij een staflid.
 [^chat]: Wil je toch iets buiten roleplay aangeven of vragen? Stuur je bericht in Discord of begin je bericht met `# `; eindigen met ` #` is optioneel. _Groepseigenaren kunnen gebruikmaken van het commando `/say`._<br>**Misbruik wordt bestraft.**
 [^verboden_terrein]: Vraag aan RMCDiscord#8945[^contact] of het desbetreffende terrein openbaar toegankelijk is en of je toestemming hebt om je daar te bevinden. Het is verboden om spullen te pakken, tenzij er wordt aangegeven door RMCDiscord#8945[^contact] dat het openbaar terrein is of dat je de spullen mag meenemen. Indien je eerder al spullen hebt gepakt van die locatie, moet je die spullen direct terugleggen.
 [^extra_bescherming]: Content creators hebben hier recht op om valsspelen door middel van activiteiten zoals stream sniping te voorkomen.
