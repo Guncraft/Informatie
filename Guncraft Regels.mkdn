@@ -20,7 +20,10 @@
 15. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
 16. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
 17. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
-18. Intentioneel de server vertragen of laten vastlopen is verboden.
+18. Het is verboden om te schieten terwijl je vliegt met een elytra.
+19. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
+20. Het is verplicht om te hurken terwijl je stilstaand schiet.
+21. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
