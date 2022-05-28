@@ -1,5 +1,18 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Modern Warfare (mod) is aangepast
-- CodeChicken Core (mod) is verwijderd
+- Er zijn maatregelen getroffen tegen valsspelen
+- Er is een systeem toegevoegd waarmee je stafleden makkelijk om hulp kunt vragen (`/modreq`)
+- De ender dragon dropt vanaf nu loot
+- De mechanics rondom het branden van entities zijn bijgesteld
+- De recipe van gasgranaten is verwijderd
+- De acties "Sneak" en "Dismount" hebben nu individuele keybinds
+- Als je uit een server gaat, kom je vanaf nu op het hoofdscherm terecht (in plaats van de serverlijst)
+- De framerate limit slider is nu exacter in te stellen
+- Je player model verdwijnt vanaf nu niet meer af en toe tijdens het vliegen met een elytra
+- De actie "Toggle Narrator" heeft vanaf nu een aanpasbare keybind
+- Potions hebben vanaf nu geen enchantment-glinstering meer
+- Snel blokken graven zorgt niet meer voor ghost blocks
+- Tile entities worden niet meer gesloopt door explosies
+- Farming is simpeler gemaakt, doordat je nu rechter muisknop op crops kunt gebruiken
+- Nieuwe spelers beginnen nu met een aantal spullen in hun inventaris
