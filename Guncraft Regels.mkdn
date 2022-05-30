@@ -34,9 +34,9 @@ _Op het overtreden van deze regels staan zware straffen!<br>Per geval/situatie k
 [^regels]: Het overtreden van één of meerdere van deze regels zal resulteren in het verliezen van je toegang tot de server.
 [^richtlijnen]: Probeer de richtlijnen na te leven. Indien je de richtlijnen negeert, kan je toegang tot de server van je ontnomen worden.
 [^gasgranaten]: Inventarissen en containers waar één of meerdere gasgranaten worden aangetroffen, worden onmiddellijk leeggehaald.<br>Ook staat er een zware straf op het bezitten van één of meerdere gasgranaten.
-[^contact]: https://discordapp.com/users/366622006059204609
+[^contact]: [RMCDiscord#8945](https://discordapp.com/users/366622006059204609)
 [^opmerking]: Dit commando brengt alleen stafleden die (op het moment dat het commando wordt uitgevoerd) aanwezig zijn in de server op de hoogte.
-[^kwesties]: https://github.com/Guncraft/Informatie/issues
+[^kwesties]: [Kwesties](https://github.com/Guncraft/Informatie/issues/new?assignees=&labels=Hulp+nodig+%28Minecraft%29&template=hulp-nodig-in-de-minecraft-server.md&title=Hulp%20nodig%20in%20de%20Minecraft-server)
 [^identificatie_richtlijnen]: Richtlijnen zijn aangegeven met `[RL]`.
 [^uitzonderingen]: Deze regel mag bij bepaalde omstandigheden overtreden worden. Bespreek dit met een staflid of geef dit buiten roleplay aan om een onnodige straf te voorkomen.
 [^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp bij een staflid.
