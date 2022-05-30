@@ -4,7 +4,7 @@
 1. Saboteren mag, opzettelijk griefen niet.<br>
 2. Gasgranaten zijn **_VERBODEN_**.[^gasgranaten]<br>
 3. Controleer altijd bij RMCDiscord#8945[^contact] of je naar een basis van een andere groep mag en vraag altijd aan RMCDiscord#8945[^contact] wat je bij een andere basis mag doen op het moment dat je er bent.<br>
-4. Als je hulp van een staflid nodig hebt, gebruik dan het commando `/helpop`[^opmerking], `/modreq` of maak een ticket aan in de Discord-server. [RL][^identificatie_richtlijnen]<br>
+4. Als je hulp van een staflid nodig hebt, gebruik dan het commando `/helpop`[^opmerking] of `/modreq`. Als je melding geen spoed heeft, kun je een kwestie aanmaken bij _Issues_[^kwesties] of een ticket aanmaken in de Discord-server. [RL][^identificatie_richtlijnen]<br>
 5. Probeer zo min mogelijk kapot te maken van basissen van andere groepen.<br>
 6. Het is verboden wijzigingen aan te brengen aan je map met mods, tenzij anders aangegeven wordt door RMCDiscord#8945[^contact]. Er worden strenge maatregelen gehanteerd om overtredingen van deze regel tegen te gaan.<br>
 7. Blijf na een aanval minimaal 30 minuten online, tenzij anders wordt aangegeven.[^uitzonderingen]<br>
@@ -36,6 +36,7 @@ _Op het overtreden van deze regels staan zware straffen!<br>Per geval/situatie k
 [^gasgranaten]: Inventarissen en containers waar één of meerdere gasgranaten worden aangetroffen, worden onmiddellijk leeggehaald.<br>Ook staat er een zware straf op het bezitten van één of meerdere gasgranaten.
 [^contact]: https://discordapp.com/users/366622006059204609
 [^opmerking]: Dit commando brengt alleen stafleden die (op het moment dat het commando wordt uitgevoerd) aanwezig zijn in de server op de hoogte.
+[^kwesties]: https://github.com/Guncraft/Informatie/issues
 [^identificatie_richtlijnen]: Richtlijnen zijn aangegeven met `[RL]`.
 [^uitzonderingen]: Deze regel mag bij bepaalde omstandigheden overtreden worden. Bespreek dit met een staflid of geef dit buiten roleplay aan om een onnodige straf te voorkomen.
 [^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp bij een staflid.
