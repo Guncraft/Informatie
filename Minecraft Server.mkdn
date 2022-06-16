@@ -1,4 +1,5 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- De recipe van gasgranaten wordt nu op een andere manier verwijderd
+- Modern Warfare (mod) is aangepast
+- Er zijn 2 crafting recipes toegevoegd
