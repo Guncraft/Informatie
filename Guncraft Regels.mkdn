@@ -16,15 +16,16 @@
     - Probeer dingen binnen de (Minecraft-)server te houden. Hiermee wordt bedoeld dat je zo min mogelijk informatie probeert te distribueren/bemachtigen buiten de (Minecraft-)server om. [RL][^identificatie_richtlijnen]<br>
       - Wil je in gesprek met een ander team of individu? Kom samen in de server! [RL][^identificatie_richtlijnen]<br>
 13. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
-14. De chat is voor roleplay.[^chat]
-15. De proximity chat (VoiceLink) is voor roleplay.
-16. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
-17. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
-18. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
-19. Het is verboden om te schieten terwijl je vliegt met een elytra.
-20. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
-21. Het is verplicht om te hurken terwijl je stilstaand schiet.
-22. Intentioneel de server vertragen of laten vastlopen is verboden.
+14. Het is verboden om misbruik te maken van fouten in de server.[^misbruik_fouten]
+15. De chat is voor roleplay.[^chat]
+16. De proximity chat (VoiceLink) is voor roleplay.
+17. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
+18. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
+19. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
+20. Het is verboden om te schieten terwijl je vliegt met een elytra.
+21. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
+22. Het is verplicht om te hurken terwijl je stilstaand schiet.
+23. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
@@ -41,6 +42,7 @@ _Op het overtreden van deze regels staan zware straffen!<br>Per geval/situatie k
 [^identificatie_richtlijnen]: Richtlijnen zijn aangegeven met `[RL]`.
 [^uitzonderingen]: Deze regel mag bij bepaalde omstandigheden overtreden worden. Bespreek dit met een staflid of geef dit buiten roleplay aan om een onnodige straf te voorkomen.
 [^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp bij een staflid.
+[^misbruik_fouten]: Heb je het gevoel dat iets niet naar behoren functioneert? Maak er geen gebruik van en maak er direct een melding van. Als je er geen melding van maakt, loop je een groot risico dat er negatieve consequenties volgen.
 [^chat]: Wil je toch iets buiten roleplay aangeven of vragen? Stuur je bericht in Discord of begin je bericht met `# `; eindigen met ` #` is optioneel. _Groepseigenaren kunnen gebruikmaken van het commando `/say`._<br>**Misbruik wordt bestraft.**
 [^verboden_terrein]: Vraag aan RMCDiscord#8945[^contact] of het desbetreffende terrein openbaar toegankelijk is en of je toestemming hebt om je daar te bevinden. Het is verboden om spullen te pakken, tenzij er wordt aangegeven door RMCDiscord#8945[^contact] dat het openbaar terrein is of dat je de spullen mag meenemen. Indien je eerder al spullen hebt gepakt van die locatie, moet je die spullen direct terugleggen.
 [^extra_bescherming]: Content creators hebben hier recht op om valsspelen door middel van activiteiten zoals stream sniping te voorkomen.
