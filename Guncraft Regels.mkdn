@@ -17,13 +17,14 @@
       - Wil je in gesprek met een ander team of individu? Kom samen in de server! [RL][^identificatie_richtlijnen]<br>
 13. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
 14. De chat is voor roleplay.[^chat]
-15. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
-16. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
-17. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
-18. Het is verboden om te schieten terwijl je vliegt met een elytra.
-19. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
-20. Het is verplicht om te hurken terwijl je stilstaand schiet.
-21. Intentioneel de server vertragen of laten vastlopen is verboden.
+15. De proximity chat (VoiceLink) is voor roleplay.
+16. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
+17. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
+18. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
+19. Het is verboden om te schieten terwijl je vliegt met een elytra.
+20. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
+21. Het is verplicht om te hurken terwijl je stilstaand schiet.
+22. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
