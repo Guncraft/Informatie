@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Proximity chat is geïmplementeerd
+- Just Enough Items (mod) is verwijderd
