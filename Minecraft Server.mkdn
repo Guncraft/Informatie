@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Just Enough Items (mod) is verwijderd
+- De recipe van gasgranaten wordt nu op een andere manier verwijderd
