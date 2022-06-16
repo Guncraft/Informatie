@@ -1,5 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Modern Warfare (mod) is aangepast
-- Er zijn 2 crafting recipes toegevoegd
+- FindMe (mod) is verwijderd
