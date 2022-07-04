@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- FindMe (mod) is verwijderd
+- Er zijn 9 crafting recipes toegevoegd
