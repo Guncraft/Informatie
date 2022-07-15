@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Er zijn 9 crafting recipes toegevoegd
+- Er is een beveiligingssysteem (die niet werkte) verwijderd
