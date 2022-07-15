@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Er is een beveiligingssysteem (die niet werkte) verwijderd
+- Probleem met betrekking tot particles is opgelost
