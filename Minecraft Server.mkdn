@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Probleem met betrekking tot particles is opgelost
+- 2 plug-ins toegevoegd om het beheer van de server makkelijker te maken
