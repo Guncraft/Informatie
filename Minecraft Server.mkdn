@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- 2 plug-ins toegevoegd om het beheer van de server makkelijker te maken
+- Fout waardoor je niet meer kon vliegen met een elytra is opgelost
