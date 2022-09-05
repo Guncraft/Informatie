@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Fout waardoor je niet meer kon vliegen met een elytra is opgelost
+- Er zijn meer mogelijkheden met potions toegevoegd
