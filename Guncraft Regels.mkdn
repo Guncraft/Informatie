@@ -25,7 +25,8 @@
 20. Het is verboden om te schieten terwijl je vliegt met een elytra.
 21. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
 22. Het is verplicht om te hurken terwijl je stilstaand schiet.
-23. Intentioneel de server vertragen of laten vastlopen is verboden.
+23. Het is verboden om te kijken welke chunks al eens eerder geladen zijn en welke niet.
+24. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
