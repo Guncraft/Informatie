@@ -1,4 +1,4 @@
 # Minecraft Server Wijzigingen
 <br>
 
-- Er zijn meer mogelijkheden met potions toegevoegd
+- Nieuwe blokken, voorwerpen & entiteiten toegevoegd
