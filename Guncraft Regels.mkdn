@@ -17,16 +17,17 @@
       - Wil je in gesprek met een ander team of individu? Kom samen in de server! [RL][^identificatie_richtlijnen]<br>
 13. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
 14. Het is verboden om misbruik te maken van fouten in de server.[^misbruik_fouten]
-15. De chat is voor roleplay.[^chat]
-16. De proximity chat (VoiceLink) is voor roleplay.
-17. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
-18. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
-19. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
-20. Het is verboden om te schieten terwijl je vliegt met een elytra.
-21. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
-22. Het is verplicht om te hurken terwijl je stilstaand schiet.
-23. Het is verboden om te kijken welke chunks al eens eerder geladen zijn en welke niet.
-24. Intentioneel de server vertragen of laten vastlopen is verboden.
+15. Valsspelen is niet toegestaan. Denk hierbij aan X-ray.
+16. De chat is voor roleplay.[^chat]
+17. De proximity chat (VoiceLink) is voor roleplay.
+18. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
+19. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
+20. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
+21. Het is verboden om te schieten terwijl je vliegt met een elytra.
+22. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
+23. Het is verplicht om te hurken terwijl je stilstaand schiet.
+24. Het is verboden om te kijken welke chunks al eens eerder geladen zijn en welke niet.
+25. Intentioneel de server vertragen of laten vastlopen is verboden.
 
 <br>
 
