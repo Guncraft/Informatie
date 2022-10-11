@@ -20,7 +20,7 @@
 15. Valsspelen is niet toegestaan. Denk hierbij aan X-ray.
 16. De chat is voor roleplay.[^chat]
 17. De proximity chat (VoiceLink) is voor roleplay.
-18. Als je denkt dat je je bevindt op het terrein van iemand anders, ben je verplicht dat terrein direct te verlaten. // Als je het gevoel hebt dat je je bevindt op terrein waar je niet mag zijn, moet je dat terrein onmiddellijk verlaten.[^verboden_terrein]
+18. Als je het gevoel hebt dat je je bevindt op een terrein waar je niet mag zijn, moet je het onmiddellijk verlaten.[^verboden_terrein]
 19. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
 20. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
 21. Het is verboden om te schieten terwijl je vliegt met een elytra.
