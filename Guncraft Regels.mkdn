@@ -27,6 +27,7 @@
 22. Het is verplicht om te hurken terwijl je stilstaand schiet.
 23. Het is verboden om te kijken welke chunks al eens eerder geladen zijn en welke niet.
 24. Intentioneel de server vertragen of laten vastlopen is verboden.
+25. Het is verplicht om mee te werken tijdens een onderzoek van het stafteam.[^onderzoek]
 
 <br>
 
@@ -49,3 +50,4 @@ _Op het overtreden van deze regels staan zware straffen!<br>Per geval/situatie k
 [^verboden_terrein]: Vraag aan RMCDiscord#8945[^contact] of het desbetreffende terrein openbaar toegankelijk is en of je toestemming hebt om je daar te bevinden. Het is verboden om spullen te pakken, tenzij er wordt aangegeven door RMCDiscord#8945[^contact] dat het openbaar terrein is of dat je de spullen mag meenemen. Indien je eerder al spullen hebt gepakt van die locatie, moet je die spullen direct terugleggen.
 [^extra_bescherming]: Content creators hebben hier recht op om valsspelen door middel van activiteiten zoals stream sniping te voorkomen.
 [^loyaliteit]: Er zijn wel mogelijkheden om een groep te verlaten, maar het is verboden om je aan te sluiten bij een groep met de intentie om de groep te misbruiken/verraden. Je mag te allen tijde een groep verlaten met toestemming van de groepsleider.
+[^onderzoek]: Liegen tijdens een onderzoek van het stafteam is strafbaar.
