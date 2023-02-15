@@ -3,11 +3,9 @@
 
 - Houd je aan de gebruiksvoorwaarden en richtlijnen van Discord. Dit is vanzelfsprekend, maar toch handig om te melden.
 
-- Wees gezellig. Onaardig gedrag worden we niet zo blij van. :)
-
 - Probeer vriendelijk met andere personen om te gaan. Als een ander aangeeft dat hij/zij iets niet fijn vindt, probeer daar dan rekening mee te houden.
 
-- Soundboards zijn toegestaan, zolang je de sound effects op gepaste momenten gebruikt en de andere personen die zich in het spraakkanaal bevinden er geen bezwaar tegen hebben. Gelieve het gebruik van harde geluiden te vermijden.
+- Soundboards zijn toegestaan, zolang je de sound effects op gepaste momenten gebruikt en er geen overmatig gebruik van wordt gemaakt. Gelieve het gebruik van harde geluiden te vermijden.
 
 - Schelden mag; uitschelden niet. Let er wel op dat bepaalde scheldwoorden anderen kunnen kwetsen. Probeer het gebruik van die scheldwoorden te vermijden. (Je snapt best welke scheldwoorden hiermee bedoeld worden.)
 
@@ -29,7 +27,13 @@
 
 - Privacyschending is niet toegestaan. Dit omvat het opslaan van afbeeldingen van personen die zichtbaar zijn op video, het delen van persoonlijke informatie, stalken en het verspreiden van bronnen van persoonlijke informatie; ook als de bron openbaar is.
 
-- Het is toegestaan om met maximaal twee accounts in de Discord-server te zitten. Het is verboden om hier misbruik van te maken. Als één van je accounts een straf opgelegd heeft gekregen, dan is het verboden om je andere account te gebruiken in de server. Het is verplicht om duidelijk te maken welke accounts van jou zijn. Dit doe je door dezelfde naam in de stellen en er bijvoorbeeld "[Alt.]" achter te zetten.
+- Het is toegestaan om opnames te maken. Deze opnames mogen alleen openbaar worden gedeeld met toestemming van de betrokkenen. Breng bij voorkeur de deelnemers van het spraakkanaal op de hoogte van de opname.
+
+- Het is toegestaan om te streamen naar externe platformen. Het is verplicht om duidelijk aan te geven dat je aan het livestreamen bent, bijvoorbeeld door "[Live]" achter je naam te zetten.
+
+- Alle activiteit wordt bijgehouden in de vorm van logs. Deze logs zijn alleen toegankelijk voor bevoegde stafleden.
+
+- Het is toegestaan om met maximaal twee accounts in de Discord-server te zitten. Het is verboden om hier misbruik van te maken. Als één van je accounts een straf opgelegd krijgt, dan is het verboden om je andere account te gebruiken in de server. Het is verplicht om duidelijk te maken welke accounts van jou zijn. Dit doe je door dezelfde naam in de stellen en er bijvoorbeeld "[Alt.]" achter te zetten.
 
 - Het is verboden om accounts en/of services te verkopen. Samenwerkingen (partnerschappen) worden geregeld via tickets.
 
