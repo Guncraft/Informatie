@@ -17,18 +17,19 @@
 12. Valsspelen is niet toegestaan. Denk hierbij aan X-ray.
 13. Het is verboden om misbruik te maken van fouten in de server.[^misbruik_fouten]
 14. Het is verboden om misbruik te maken van functies in Minecraft. Denk hierbij aan Pie-Ray[^pie-ray].
-15. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
-16. De chat is voor roleplay.[^chat]
-17. De proximity chat (VoiceLink) is voor roleplay.
-18. Als je het gevoel hebt dat je je bevindt op een terrein waar je niet mag zijn, moet je het onmiddellijk verlaten.[^verboden_terrein]
-19. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
-20. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
-21. Het is verboden om te schieten terwijl je vliegt met een elytra.
-22. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
-23. Het is verplicht om te hurken terwijl je stilstaand schiet.
-24. Het is verboden om te kijken welke chunks al eens eerder geladen zijn en welke niet.
-25. Intentioneel de server vertragen of laten vastlopen is verboden.
-26. Het is verplicht om mee te werken tijdens een onderzoek van het stafteam.[^onderzoek]
+15. Het is verboden om externe gereedschappen[^gereedschappen] te gebruiken om vestigingen van andere groepen te vinden.
+16. Het is verboden om misbruik te maken van gaten in de regels.[^misbruik_regels]
+17. De chat is voor roleplay.[^chat]
+18. De proximity chat (VoiceLink) is voor roleplay.
+19. Als je het gevoel hebt dat je je bevindt op een terrein waar je niet mag zijn, moet je het onmiddellijk verlaten.[^verboden_terrein]
+20. Groepen van/met content creators (zoals streamers) komen in aanmerking voor extra bescherming vanuit de server en het stafteam.[^extra_bescherming] [RL][^identificatie_richtlijnen]
+21. Als je je aansluit bij een groep, dan is het de bedoeling dat je bij die groep blijft.[^loyaliteit]
+22. Het is verboden om te schieten terwijl je vliegt met een elytra.
+23. Het gebruik van end crystals tijdens een gevecht is alleen toegestaan buiten de hoofdstad.
+24. Het is verplicht om te hurken terwijl je stilstaand schiet.
+25. Het is verboden om te kijken welke chunks al eens eerder geladen zijn en welke niet.
+26. Intentioneel de server vertragen of laten vastlopen is verboden.
+27. Het is verplicht om mee te werken tijdens een onderzoek van het stafteam.[^onderzoek]
 
 <br>
 
@@ -47,6 +48,7 @@ _Op het overtreden van deze regels staan zware straffen!<br>Per geval/situatie k
 [^server_character]: Een server character is een personage dat aangestuurd wordt door de server. Server characters zijn er om bepaalde dingen (via roleplay) mogelijk te maken. Een server character wordt (meestal) gespeeld door een speler op een alternatief account.
 [^misbruik_fouten]: Heb je het gevoel dat iets niet naar behoren functioneert? Maak er geen gebruik van en maak er direct een melding van. Als je er geen melding van maakt, loop je een groot risico dat er negatieve consequenties volgen.
 [^pie-ray]: Pie-Ray is het misbruiken van de pie chart in Minecraft om vestigingen van andere spelers te kunnen vinden. Er staat een permanente verbanning op het misbruiken van deze functie.
+[^gereedschappen]: Hieronder vallen programma's die locaties kunnen vinden met behulp van de seed van de wereld (door middel van posities en/of rotaties van blokken en/of structures).
 [^misbruik_regels]: Denk je dat iets niet mag/niet de bedoeling is? Doe het dan niet en vraag eventueel om hulp bij een staflid.
 [^chat]: Wil je toch iets buiten roleplay aangeven of vragen? Stuur je bericht in Discord of begin je bericht met `# `; eindigen met ` #` is optioneel. _Groepseigenaren kunnen gebruikmaken van het commando `/say`._<br>**Misbruik wordt bestraft.**
 [^verboden_terrein]: Vraag aan RMCDiscord#8945[^contact] of het desbetreffende terrein openbaar toegankelijk is en of je toestemming hebt om je daar te bevinden. Het is verboden om spullen te pakken, tenzij er wordt aangegeven door RMCDiscord#8945[^contact] dat het openbaar terrein is of dat je de spullen mag meenemen. Indien je eerder al spullen hebt gepakt van die locatie, moet je die spullen direct terugleggen.
