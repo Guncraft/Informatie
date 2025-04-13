@@ -25,4 +25,15 @@ _**ELKE ANDERE OPMAAK WORDT DIRECT AFGEWEZEN!**_
 
 **Voordat je een vestiging kunt laten registreren, moet je eerst een bepaald aantal vestigingen in (of in de nabije omgeving van) de hoofdstad hebben.**<br>
 <br>
-De voorwaarden zijn nog niet openbaar. Er is een formule voor het berekenen van het totale aantal toegestane (geregistreerde) vestigingen, waar (voorlopig nog) uitzonderingen op gemaakt kunnen worden na overleg.
+Je kunt het aantal vestigingen die je kunt laten registreren berekenen met de volgende formule:<br>
+<br>
+`x = y / (z - 1) + y`<br>
+<br>
+_x = Maximum aantal toegestane geregistreerde vestigingen_<br>
+_y = Aantal vestigingen in (of in de nabije omgeving van) de hoofdstad_<br>
+_z = Aantal vestigingen buiten de hoofdstad_<br>
+<br>
+_Indien de waarde van `z` in de praktijk gelijkstaat aan `0` of `1`, verandert de waarde van `z` in de formule naar `2`._<br>
+_Indien de waarde van `x` een decimaal getal is, wordt de waarde van `x` afgerond op nul decimalen._<br>
+<br>
+_Het is vereist om minimaal 1 vestiging in (of in de nabije omgeving van) de hoofdstad te bezitten, voordat er een vestiging buiten de hoofdstad geregistreerd kan worden._
